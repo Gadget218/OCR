@@ -1,5 +1,6 @@
 # OCR
-Optical Character Recognition Web app developed using Python's FastAPI framework and HTML5.
+Optical Character Recognition Web app developed using Python's FastAPI framework and HTML5.<br />
+Demo Link: https://www.linkedin.com/feed/update/urn:li:activity:7045528324193890304/
 
 # Requirements
 aiofiles==0.6.0 <br />
